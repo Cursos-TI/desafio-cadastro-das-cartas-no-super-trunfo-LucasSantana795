@@ -8,7 +8,7 @@ int main() {
     char código2[3];
     char nome1[30];
     char nome2[30];
-    unsigned long int populacao1, populacao2
+    unsigned long int populacao1, populacao2;
     int pt1, pt2; //pt = pontos turisticos
     float area1, area2, pib1, pib2;
     
