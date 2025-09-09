@@ -8,7 +8,8 @@ int main() {
     char código2[3];
     char nome1[30];
     char nome2[30];
-    int populacao1, populacao2, pt1, pt2; //pt = pontos turisticos
+    unsigned long int populacao1, populacao2
+    int pt1, pt2; //pt = pontos turisticos
     float area1, area2, pib1, pib2;
     
     printf("Estado da primeira carta (A-H): \n");
